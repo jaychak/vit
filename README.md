@@ -18,8 +18,13 @@ The ViT supposedly excels in bigger datasets.
 The ViT is from the paper
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
+![Local Image](images/vit.png)
+
 The ViT-MAE is from the paper
 - [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+
+![Local Image](images/vitmae.png)
+
 
 ## Disclaimers
 
